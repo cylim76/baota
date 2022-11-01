@@ -1,6 +1,6 @@
-'apt update
+'''apt update
 apt install socat
-apt install git'
+apt install git'''
 
 
 #安装acme.sh
