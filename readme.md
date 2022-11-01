@@ -19,7 +19,7 @@ acme.sh --issue -d 域名 --standalone
 #安装证书
 acme.sh --installcert -d 域名 --key-file /root/private.key --fullchain-file /root/cert.crt
 
-# 安装X-ui   admin  admin76
+# 安装X-ui   admin  admin
 1.在线安装
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
