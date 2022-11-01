@@ -1,6 +1,7 @@
-apt update
+'''apt update
 apt install socat
 apt install git
+'''
 
 #安装acme.sh
 curl https://get.acme.sh | sh
