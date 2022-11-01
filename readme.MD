@@ -1,16 +1,16 @@
-'''apt update
+```apt update
 apt install socat
-apt install git'''
+apt install git```
 
-```
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-```
 
 #安装acme.sh
+```
 curl https://get.acme.sh | sh
+```
 
+# 可执行目录
 ln -s  /root/.acme.sh/acme.sh /usr/local/bin/acme.sh
-
+```
 #切换CA机构, 可选： 
 acme.sh --set-default-ca --server letsencrypt
 
