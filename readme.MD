@@ -2,6 +2,9 @@
 apt install socat
 apt install git'''
 
+```
+bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+```
 
 #安装acme.sh
 curl https://get.acme.sh | sh
