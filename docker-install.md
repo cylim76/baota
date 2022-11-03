@@ -57,5 +57,4 @@ apt install docker-ce docker-ce-cli containerd.io
 ```
 docker help
 docker version
-sudo docker run hello-world
 ```
